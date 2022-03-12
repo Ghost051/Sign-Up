@@ -1,0 +1,52 @@
+#background{
+    background-image: url(https://www.teahub.io/photos/full/22-229794_thumb-image-windows-7-wallpaper-grass.jpg);
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 800px;
+  transform: scale(1.1);
+  width: 1370px;
+}
+#about{
+    position: absolute;
+    top:0px;
+    font-family: 'Source Sans Pro', sans-serif;
+   
+}
+#Contact{
+    position: absolute;
+    top: 0px;
+    left: 140px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#welcome{
+    position: relative;
+    bottom: 600px;
+    left:100px;
+    font-size: 45px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#welcome2{
+    position: relative;
+    bottom:600px;
+    left:100px;
+    font-size: 40px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#person{
+    position: relative;
+    bottom:1155px;
+    left: 1385px;
+    color:black;
+   
+    
+}
+#LogIn{
+    position: relative;
+    bottom: 1155px;
+    left:1290px;
+    font-size: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
